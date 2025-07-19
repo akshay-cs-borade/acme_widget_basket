@@ -1,4 +1,4 @@
-````markdown
+
 # 🛒 Acme Widget Co – Basket Pricing System
 
 A modular, testable Ruby implementation of a basket pricing system for **Acme Widget Co**.
